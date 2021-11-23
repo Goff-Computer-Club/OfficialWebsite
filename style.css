@@ -1,0 +1,104 @@
+body{
+  background-image: url("https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif")
+  }
+  #title{
+  background-color: cyan;
+  text-align: Center;
+  font-family: 'Red Hat Mono', monospace;
+}
+#Computer_club{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 350px;
+height:350px;
+}
+
+.Addproj{
+  font-family: 'Red Hat Mono', monospace;
+  text-align: center;
+  color: white;
+}
+#AboutUs_div{
+  background-color:black;
+}
+.RAfont{
+   font-family: 'Red Hat Mono', monospace;
+  text-align: center;
+  color: white;
+  
+}
+
+#logonav{
+  
+  width: 50px;
+height:50px;
+margin-bottom: 10px;
+}
+#para{
+ color:blue;
+}
+#computer_gif{
+  width:7%;
+  height:10%;
+}
+
+
+
+.dropbtn {
+  background-color: royalblue;
+  color: white;
+  padding: 16px;
+  font-size: 40px;
+  border:10px;
+  text-align: center;
+  height: 80px;
+  width: 500px;
+}
+
+
+.dropdown {
+  position:relative;
+  display:block;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:aqua;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px ;
+  z-index: 1;
+}
+
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.Navlinks{
+  font-size: 30px;
+  margin-right: 20px;
+  font-family: 'Red Hat Mono', monospace;
+  color:white
+}
+
+.bgNavlinks{
+  background-color: red;
+   border-radius: 10px;
+   padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}

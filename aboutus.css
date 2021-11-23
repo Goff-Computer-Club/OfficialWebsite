@@ -1,0 +1,31 @@
+#para{
+  text-align: center;
+  font-family: 'Red Hat Mono', monospace;
+  padding: 10px;
+  color:white;
+  
+}
+
+#title{
+  background-color: cyan;
+  text-align: Center;
+  font-family: 'Red Hat Mono', monospace;
+ 
+}
+
+.Navlinks{
+  font-size: 30px;
+  margin-right: 20px;
+  font-family: 'Red Hat Mono', monospace;
+  color:white
+}
+
+.bgNavlinks{
+  background-color: red;
+   border-radius: 10px;
+   padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+
