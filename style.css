@@ -102,3 +102,10 @@ margin-bottom: 10px;
     padding-right: 10px;
     text-align: center;
 }
+
+.ONAME{
+  font-family: 'Red Hat Mono', monospace;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
